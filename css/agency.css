@@ -253,7 +253,7 @@ header .intro-text .intro-heading {
 @media (min-width: 768px) {
    header .intro-text {
        padding-top: 454px;
-       padding-bottom: 23px
+       padding-bottom: 18px
    }
    header .intro-text .intro-lead-in {
        font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -306,8 +306,9 @@ section h3.section-subheading {
    max-width: 400px;
    margin: 0 auto
 }
+   /*background: rgba(254, 209, 54, .9);*/
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
-   background: rgba(254, 209, 54, .9);
+  background: #0AE1FF;
    position: absolute;
    width: 100%;
    height: 100%;
